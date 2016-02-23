@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-A first year Ph.D. candidate from Database Lab in National University of Singapore. Interested in data management, parallel and distributed system.
+A first year Ph.D. candidate from Database Lab in National University of Singapore, interested in data management, parallel and distributed system.
 
 ### Project
 [SINGA: A Distributed Deep Learning Platform](http://singa.incubator.apache.org/)
