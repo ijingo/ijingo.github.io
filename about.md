@@ -9,4 +9,6 @@ A first year Ph.D. candidate from Database Lab at National University of Singapo
 
 ### Contact me
 
-[ijingobravo@gmail.com](mailto:ijingobravo@gmail.com)
+Mail: [ijingobravo@gmail.com](mailto:ijingobravo@gmail.com)
+
+Weibo: [@一头乱码的Jingo](http://weibo.com/ijingo)
