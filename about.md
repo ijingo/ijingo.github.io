@@ -4,12 +4,9 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+A first year Ph.D. candidate from Database Lab at National University of Singapore. Interested in data management, parallel and distributed system.
 
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[ijingobravo@gmail.com](mailto:ijingobravo@gmail.com)
