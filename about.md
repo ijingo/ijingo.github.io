@@ -9,7 +9,7 @@ A first year Ph.D. candidate from Database Lab in National University of Singapo
 ### Project
 [SINGA: A Distributed Deep Learning Platform](http://singa.incubator.apache.org/)
 
-SINGA is an Apache Incubator open source, distributed training platform for deep learning models, and is designed based on three principles: usability, scalability and extensiblity. SINGA supports a variety of popular deep learning models e.g. Convolutional Neural Network(CNN), Recurrent Neural Network(RNN) and Restricted Boltzmann Machine(RBM). SINGA architecture is sufficiently flexible to run synchronous, asynchronous and hybrid training frameworks both on CPU cluster and GPU cluster. I join the project since August 2015.
+SINGA is an Apache Incubator open source, distributed training platform for deep learning models, and is designed based on three principles: usability, scalability and extensiblity. SINGA supports a variety of popular deep learning models e.g. Convolutional Neural Network (CNN), Recurrent Neural Network (RNN) and Restricted Boltzmann Machine (RBM). SINGA architecture is sufficiently flexible to run synchronous, asynchronous and hybrid training frameworks both on CPU cluster and GPU cluster. I join the project since August 2015.
 
 
 ### Contact me
