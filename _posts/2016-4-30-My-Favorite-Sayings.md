@@ -4,6 +4,7 @@ title:  My Favorite Sayings
 ---
 
 > The greatest performance improvement of all is when a system goes from not-working to working.
+
 > -- John Ousterhout{:right}
 --------
 
