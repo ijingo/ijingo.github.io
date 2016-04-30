@@ -3,7 +3,8 @@ layout: post
 title:  My Favorite Sayings
 ---
 
-* The greatest performance improvement of all is when a system goes from not-working to working. --John Ousterhout
+> The greatest performance improvement of all is when a system goes from not-working to working. 
+> --John Ousterhout
 
  Programmers tend to worry too much and too soon about performance. Many college-level Computer Science classes focus on fancy algorithms to improve performance, but in real life performance rarely matters. Most real-world programs run plenty fast enough on today's machines without any particular attention to performance. **The real challenges are getting programs completed quickly, ensuring their quality, and managing the complexity of large applications.** Thus the primary design criterion for software should be *simplicity*, not speed.
  
