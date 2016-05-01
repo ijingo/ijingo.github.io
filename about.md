@@ -15,6 +15,9 @@ SINGA is an Apache Incubator open source, distributed training platform for deep
 ### Contact
 
 Mail: [ijingobravo@gmail.com](mailto:ijingobravo@gmail.com)
+
 Witter: [@ijingobravo](https://twitter.com/jingobravo)
+
 Weibo: [@一头乱码的Jingo](http://weibo.com/ijingo)
+
 Blog: [Jingo's Blog](http://ijingo.github.io)
