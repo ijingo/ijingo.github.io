@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-A first year Ph.D. candidate from Database Lab in National University of Singapore, interested in data management, parallel and distributed system.
+Hello! I am WANG Ji (王冀), a first year Ph.D. candidate from [Database System Research Group](http://www.comp.nus.edu.sg/~dbsystem/) at [School of Computing (SoC)](http://www.comp.nus.edu.sg), [National University of Singapore](http://www.nus.edu.sg/). I am supervised under [Prof. Beng Chin Ooi](http://www.comp.nus.edu.sg/~ooibc/).
 
 ### Project
 [SINGA: A Distributed Deep Learning Platform](http://singa.incubator.apache.org/)
@@ -12,8 +12,9 @@ A first year Ph.D. candidate from Database Lab in National University of Singapo
 SINGA is an Apache Incubator open source, distributed training platform for deep learning models, and is designed based on three principles: usability, scalability and extensiblity. SINGA supports a variety of popular deep learning models e.g. Convolutional Neural Network (CNN), Recurrent Neural Network (RNN) and Restricted Boltzmann Machine (RBM). SINGA architecture is sufficiently flexible to run synchronous, asynchronous and hybrid training frameworks both on CPU cluster and GPU cluster. I join the project since August 2015.
 
 
-### Contact me
+### Contact
 
 Mail: [ijingobravo@gmail.com](mailto:ijingobravo@gmail.com)
-
+Witter: [@ijingobravo](https://twitter.com/jingobravo)
 Weibo: [@一头乱码的Jingo](http://weibo.com/ijingo)
+Blog: [Jingo's Blog](http://ijingo.github.io)
