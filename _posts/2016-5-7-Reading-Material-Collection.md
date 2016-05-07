@@ -27,10 +27,10 @@ avoided.
 This is the fifth edition of "the Red Book" *Reading in Database Systems*. It
 offers readers a take on both classic and cutting-edge research in the field
 of data management. This edition comes from
-[**Peter Bailis**](http://www.bailis.org), 
-[**Joseph M. Hellerstein**](http://db.cs.berkeley.edu/jmh),
-and [**Michael**](https://en.wikipedia.org/wiki/Michael_Stonebraker)
-[**Stonebraker**](https://voltdb.com/leadership/dr-michael-stonebraker).
+[Peter Bailis](http://www.bailis.org), 
+[Joseph M. Hellerstein](http://db.cs.berkeley.edu/jmh),
+and [Michael](https://en.wikipedia.org/wiki/Michael_Stonebraker)
+[Stonebraker](https://voltdb.com/leadership/dr-michael-stonebraker).
 
 * [Readings in Databases](https://github.com/rxin/db-readings)
 
