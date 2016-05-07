@@ -20,4 +20,4 @@ Witter: [@ijingobravo](https://twitter.com/jingobravo)
 
 Weibo: [@一头乱码的Jingo](http://weibo.com/ijingo)
 
-Blog: [Viva La Data Base!](http://ijingo.github.io)
+Blog: [Viva La Data Bases!](http://ijingo.github.io)
