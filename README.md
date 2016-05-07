@@ -1,6 +1,6 @@
-# Jingo's persional blog: Viva La Data Bases!
+# Viva La Data Bases!
 
-Based on **Jekyll Now**
+Jingo's persional blog driven by **Jekyll Now**.
 
 **Jekyll** is a static site generator that's perfect for GitHub hosted blogs ([Jekyll Repository](https://github.com/jekyll/jekyll))
 
