@@ -20,7 +20,7 @@ avoided.
 
 ## Database Techniques
 
-* ["The Red Book"](www.redbook.io)
+* ["The Red Book"](http://www.redbook.io)
 
 This is the fifth edition of "the Red Book" *Reading in Database Systems*. It
 offers readers a take on both classic and cutting-edge research in the field
@@ -29,6 +29,23 @@ of data management. This edition comes from
 [**Joseph M. Hellerstein**](http://db.cs.berkeley.edu/jmh),
 and [**Michael**](https://en.wikipedia.org/wiki/Michael_Stonebraker)
 [**Stonebraker**](https://voltdb.com/leadership/dr-michael-stonebraker).
+
+* [Readings in Databases](https://github.com/rxin/db-readings)
+
+A list of papers essential to understandings databases and building new data
+systems. The list is curated and maintained by [Reynold Xin](http://rxin.github.io/)
+ (co-founder of [Databricks](https://databricks.com/)).
+
+* [CMU 15-721 Database Systems](http://15721.courses.cs.cmu.edu/spring2016/schedule.html)
+
+This the homepage of CMU 2016 spring course on database management systems which
+cover the core concepts and fundamentals of the components that are used in both
+high-performance transaction processing systems (OLTP) and large-scale analytical
+systems (OLAP). This course is introduced by
+[Andy Pavlo](http://www.cs.cmu.edu/~pavlo/)
+(who is one of the main contributers of [H-Store](http://hstore.cs.brown.edu/)).
+On the website of this course, there are video records and slides of
+classroom teaching and a valuable educational paper list on database systems.
 
 ---
 
