@@ -72,13 +72,14 @@ a {
   color: #990000;
   text-decoration: none;
   cursor: pointer;
+
   &:hover {
-    -webkit-transition: all 2s;
-    -moz-transition: all 2s;
-    -o-transition: all 2s;
-    transition: all 2s;
     color: #990000;
     text-decoration: underline;
+    -webkit-transition: text-decoration 1s;
+    -moz-transition: text-decoration 1s;
+    -o-transition: text-decoration 1s;
+    transition: text-decoration 1s;
   }
 }
 
