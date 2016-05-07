@@ -74,7 +74,7 @@ a {
   cursor: pointer;
 
   &:hover {
-    color: #990000;
+    color: #dd0000;
     text-decoration: underline;
     -webkit-transition: text-decoration 1s;
     -moz-transition: text-decoration 1s;
@@ -222,6 +222,7 @@ nav {
   margin-top: 23px; // @TODO: Vertically middle align
   font-family: $helveticaNeue;
   font-size: 18px;
+  font-weight: bold;
 
   @include mobile {
     float: none;
