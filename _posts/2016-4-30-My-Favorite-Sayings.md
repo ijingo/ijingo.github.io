@@ -4,7 +4,7 @@ title:  My Favorite Sayings
 ---
 
 > The greatest performance improvement of all is when a system goes from not-working to working. 
-> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;--John Ousterhout
+> --John Ousterhout
 
 Programmers tend to worry too much and too soon about performance. Many college-level Computer Science classes
 focus on fancy algorithms to improve performance, but in real life performance rarely matters. Most real-world
