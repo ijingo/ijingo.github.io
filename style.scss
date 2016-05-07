@@ -32,7 +32,7 @@ body {
 
 h1, h2, h3, h4, h5, h6 {
   font-family: $helveticaNeue;
-  color: $darkerGray;
+  color: #990000;
   font-weight: bold;
 
   line-height: 1.7;
@@ -69,11 +69,15 @@ p {
 }
 
 a {
-  color: $blue;
+  color: #990000;
   text-decoration: none;
 	cursor: pointer;
-  &:hover, &:active {
-    color: $blue;
+  &:hover {
+    color: #990000;
+    text-decoration: underline;
+  }
+  &:active {
+    color: #990000;
   }
 }
 
@@ -192,11 +196,12 @@ img {
 
 .site-name {
   margin: 0;
-  color: $darkGray;
+  color: #990000;
   cursor: pointer;
   font-family: $helveticaNeue;
-  font-weight: 300;
-  font-size: 28px;
+  font-weight: 700;
+  font-variant: small-caps;
+  font-size: 30px;
   letter-spacing: 1px;
 }
 
@@ -259,6 +264,7 @@ nav {
     color: $gray;
     font-size: 22px;
     font-style: italic;
+    background: $lightGray;
   }
 
   .comments {
