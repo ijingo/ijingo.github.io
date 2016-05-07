@@ -76,10 +76,10 @@ a {
   &:hover {
     color: #dd0000;
     text-decoration: underline;
-    -webkit-transition: text-decoration 1s;
-    -moz-transition: text-decoration 1s;
-    -o-transition: text-decoration 1s;
-    transition: text-decoration 1s;
+    -webkit-transition: color 1s;
+    -moz-transition: color 1s;
+    -o-transition: color 1s;
+    transition: color 1s;
   }
 }
 
