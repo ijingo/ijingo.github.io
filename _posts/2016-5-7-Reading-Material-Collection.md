@@ -16,6 +16,8 @@ The gitbook covers 42 recommendations about programming in C/C++. It contains re
 examples with errors and author gives explanations of how these bugs could be
 avoided.
 
+* [Latency Numbers Every Programmer Should Know](https://gist.github.com/jboner/2841832)
+
 ---
 
 ## Database Techniques
@@ -56,4 +58,4 @@ classroom teaching and a valuable educational paper list on database systems.
 One can live more than one lives as long as he is willing to. It takes about
 7 years to master something. If you live to be 88, after age 11, you have 11
 opportunities to be great at something. These are the lifetimes more than one.
-Here is a [comic](http://b.xinshengdaxue.com/images/heres-sth-wrong.jpg)
+Here is a [comic](http://b.xinshengdaxue.com/images/heres-sth-wrong.jpg).
