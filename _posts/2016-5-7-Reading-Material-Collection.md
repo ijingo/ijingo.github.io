@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Reading Material Exhibitions
+title: Reading Material Collections
 ---
 
 This blog is a small storage room of serveral valuable reading materials in
