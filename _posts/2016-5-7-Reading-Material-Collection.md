@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  My Favorite Sayings
+title: Reading Material Exhibitions
 ---
 
 This blog is a small storage room of serveral valuable reading materials in
