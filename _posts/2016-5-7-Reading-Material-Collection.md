@@ -24,18 +24,19 @@ avoided.
 
 This is the fifth edition of "the Red Book" *Reading in Database Systems*. It
 offers readers a take on both classic and cutting-edge research in the field
-of data management. This edition comes from [**Peter Bailis**](www.bailis.org), 
-[**Joseph M. Hellerstein**](db.cs.berkeley.edu/jmh),
-and [**Michael**](en.wikipedia.org/wiki/Michael_Stonebraker)
-[**Stonebraker**](voltdb.com/leadership/dr-michael-stonebraker).
+of data management. This edition comes from
+[**Peter Bailis**](http://www.bailis.org), 
+[**Joseph M. Hellerstein**](http://db.cs.berkeley.edu/jmh),
+and [**Michael**](https://en.wikipedia.org/wiki/Michael_Stonebraker)
+[**Stonebraker**](https://voltdb.com/leadership/dr-michael-stonebraker).
 
 ---
 
 ## Sentiments of Life
 
-* [新生大学 Newborn University](b.xinshengdaxue.com) (in Chinese)
+* [新生大学 Newborn University](http://b.xinshengdaxue.com) (in Chinese)
 
 One can live more than one lives as long as he is willing to. It takes about
 7 years to master something. If you live to be 88, after age 11, you have 11
 opportunities to be great at something. These are the lifetimes more than one.
-Here is a [comic](b.xinshengdaxue.com/images/heres-sth-wrong.jpg)
+Here is a [comic](http://b.xinshengdaxue.com/images/heres-sth-wrong.jpg)
