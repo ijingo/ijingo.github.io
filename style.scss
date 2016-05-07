@@ -72,14 +72,10 @@ a {
   color: #990000;
   text-decoration: none;
   cursor: pointer;
-  transition-property: all;
-  transition-duration: 0.25s;
-  -moz-transition-property: all; /* Firefox 4 */
-  -moz-transition-duration: 0.25s; /* Firefox 4 */
-  -webkit-transition-property: all; /* Safari and Chrome */
-  -webkit-transition-duration: 0.25s; /* Safari and Chrome */
-  -o-transition-property: all; /* Opera */
-  -o-transition-duration: 0.25s; /* Opera */
+  -webkit-transition: all 0.25s;
+  -moz-transition: all 0.25s;
+  -o-transition: all 0.25s;
+  transition: all 0.25s
   &:hover {
     color: #990000;
     text-decoration: underline;
