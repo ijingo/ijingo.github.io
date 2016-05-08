@@ -251,8 +251,18 @@ nav {
       
       &:hover {
       	text-decoration: none;
-      	color: #dd0000;
-        background-color: #646464;
+      	color: #d00;
+        background-color: #ddd;
+        -webkit-box-shadow: inset 0 1px 3px rgba(0, 0, 0, 0.5), 0 1px 0 rgba(255, 255, 255, 0.1);
+        -moz-box-shadow: inset 0 1px 3px rgba(0, 0, 0, 0.5), 0 1px 0 rgba(255, 255, 255, 0.1);
+        box-shadow: inset 0 1px 3px rgba(0, 0, 0, 0.5), 0 1px 0 rgba(255, 255, 255, 0.1);
+        text-shadow: 0 1px 3px rgba(0, 0, 0, 0.5);
+      }
+      
+      &.current {
+      	text-decoration: none;
+      	color: #d00;
+        background-color: #aaa;
         -webkit-box-shadow: inset 0 1px 3px rgba(0, 0, 0, 0.5), 0 1px 0 rgba(255, 255, 255, 0.1);
         -moz-box-shadow: inset 0 1px 3px rgba(0, 0, 0, 0.5), 0 1px 0 rgba(255, 255, 255, 0.1);
         box-shadow: inset 0 1px 3px rgba(0, 0, 0, 0.5), 0 1px 0 rgba(255, 255, 255, 0.1);

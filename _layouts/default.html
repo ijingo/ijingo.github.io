@@ -26,12 +26,20 @@
             <h1 class="site-name"><a href="{{ site.baseurl }}/">{{ site.name }}</a></h1>
             <p class="site-description">{{ site.description }}</p>
           </div>
-
+          {% if page.title == "blog" %}
+            {% assign current_blog = "current" %}
+          {% endif %}
+          {% if page.title == "archives" %}
+            {% assign current_archives = "current" %}
+          {% endif %}
+          {% if page.title == "about" %}
+            {% assign current_about = "current" %}
+          {% endif %}
           <nav>
             <ul>
-              <li><a href="{{ site.baseurl }}/">Blog</a></li>
-              <li><a href="{{ site.baseurl }}/archive">Archives</a></li>
-              <li><a href="{{ site.baseurl }}/about">About</a></li>
+              <li><a href="{{ site.baseurl }}/" class="{{current_blog}}">Blog</a></li>
+              <li><a href="{{ site.baseurl }}/archive" class="{{current_archives}}">Archives</a></li>
+              <li><a href="{{ site.baseurl }}/about" class="{{current_about}}">About</a></li>
             </ul>
           </nav>
         </header>
