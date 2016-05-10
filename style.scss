@@ -39,16 +39,17 @@ h1, h2, h3, h4, h5, h6 {
   margin: 1em 0 15px;
   padding: 0;
 
+  -webkit-transition: color 0.25s;
+  -moz-transition: color 0.25s;
+  -o-transition: color 0.25s;
+  transition: color 0.25s;
+
   @include mobile {
     line-height: 1.4;
   }
 
   &:hover {
     color: #d00;
-    -webkit-transition: color 0.25s;
-    -moz-transition: color 0.25s;
-    -o-transition: color 0.25s;
-    transition: color 0.25s;
   }
 }
 
@@ -89,13 +90,14 @@ a {
   text-decoration: none;
   cursor: pointer;
 
+  -webkit-transition: color 0.5s;
+  -moz-transition: color 0.5s;
+  -o-transition: color 0.5s;
+  transition: color 0.5s;
+
   &:hover {
     color: #dd0000;
     text-decoration: underline;
-    -webkit-transition: color 0.5s;
-    -moz-transition: color 0.5s;
-    -o-transition: color 0.5s;
-    transition: color 0.5s;
   }
 }
 
