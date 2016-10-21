@@ -20,6 +20,14 @@ avoided.
 
 ---
 
+## Distributed Systems & Algorithms
+
+* ["Distributed Consensus: Making Impossible Possible"](http://vivaladb.com/uploads/impossible_consensus.pdf)
+
+A good tour of consensus algorithm history from Heidi Howard, a Ph.D. student from University of Cambridge.
+
+---
+
 ## Database Techniques
 
 * ["The Red Book"](http://www.redbook.io)
