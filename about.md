@@ -4,7 +4,7 @@ title: about
 permalink: /about/
 ---
 
-Hello! I am WANG Ji (王冀), a first year Ph.D. candidate from [Database System Research Group](http://www.comp.nus.edu.sg/~dbsystem/) at [School of Computing (SoC)](http://www.comp.nus.edu.sg), [National University of Singapore](http://www.nus.edu.sg/). I am supervised under [Prof. Beng Chin Ooi](http://www.comp.nus.edu.sg/~ooibc/).
+Hello! I am WANG Ji (王冀), a first year Ph.D. candidate from [Database System Research Group](http://www.comp.nus.edu.sg/~dbsystem/) at [School of Computing (SoC)](http://www.comp.nus.edu.sg), [National University of Singapore](http://www.nus.edu.sg/). I am supervised under [Prof. Beng Chin Ooi](http://www.comp.nus.edu.sg/~ooibc/). [My resume.](http://www.vivaladb.com/uploads/resume-wangji.pdf)
 
 -------
 
