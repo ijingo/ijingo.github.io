@@ -17,5 +17,6 @@ Golang 提供了一种方便的 break 语义，可以允许在嵌套的循环里
 
 <script src="https://gist.github.com/ijingo/1db19a8938c455be5f0949b8ecd2fb1f.js"></script>
 
-例子3中的 break 将对标记了 LOOP 的 for 循环起作用，于是此段程序不再是一个死循环。Play it [Online](https://play.golang.org/p/_b7jva0PjG).
+例子3中的 break 将对标记了 LOOP 的 for 循环起作用，于是此段程序不再是一个死循环。
+[Play it Online](https://play.golang.org/p/_b7jva0PjG).
 
