@@ -46,13 +46,13 @@ title: 用 Go 实现 MapReduce
 
 <script src="https://gist.github.com/ijingo/dc74f99c9ebfbf3760f53d6041a4c4cf.js"></script>
 
-#### Scheduler 设计
+### Scheduler 设计
 
 `Master` 端进程还会负责分配、调度子任务，当 `DoTask()` 这个 RPC 失效时 `Master` 自动选择另一个闲置的 `Worker` 来重新尝试计算此子任务。当 `Worker` 成功完成了一个子任务之后，会被重新加入 `regsiterChannel` 中等待下一个任务。
 
 <script src="https://gist.github.com/ijingo/8bf4ba05b8264f77c7b4a48d6835a724.js"></script>
 
-#### doMap() 与 doReduce()
+### doMap() 与 doReduce()
 在 `Distributed`　模式下，由　`Worker` 运行着两个函数来完成计算；在 `Sequential`　模式下，　`Master` 自身依次调用这两个函数来完成计算。
 
 `doMap()` 和　`doReduce()` 实际都是读取（解析）输入文件并保存在内存中，调用用户自定义的 `MapF` 或　`ReduceF` 变换读取后的文件内容，然后将变换结果转存为输出文件，因此这两个函数的主要工作是文件操作。`doMap()` 会把每一个　Mapper 对应的输入文件处理后存为 nReduce 份，相当于做了一个 Shuffle，本实现中使用的是 hash partition，而 `doReduce()` 会把所有对应的中间文件组合起来输出最终的结果。
