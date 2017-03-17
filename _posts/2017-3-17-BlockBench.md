@@ -1,6 +1,6 @@
 ---
 layout: post
-title: BlockBench: A Framework for Analyzing Private Blockchains
+title: BlockBench - A Framework for Analyzing Private Blockchains
 ---
 
 ## TL;DR
